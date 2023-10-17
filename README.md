@@ -25,9 +25,9 @@
 ### :hammer_and_wrench: Языки и инструменть| :
 
 <div>
-<img src="https://github.com/devicons/devicon/blob/master/icons/github/photochop-original-wordmark.svg" width="40" height="40"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/github/blender-original-wordmark.svg" width="40" height="40"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/github/figma-original-wordmark.svg" width="40" height="40"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-original-wordmark.svg" width="40" height="40"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/blender/blender-original-wordmark.svg" width="40" height="40"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original-wordmark.svg" width="40" height="40"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/unrealengine/unrealengine-original-wordmark.svg" width="40" height="40"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" width="40" height="40"/
 </div>
